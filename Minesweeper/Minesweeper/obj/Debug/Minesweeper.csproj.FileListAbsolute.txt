@@ -1,0 +1,10 @@
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Minesweeper.resources
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\aliiq\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
